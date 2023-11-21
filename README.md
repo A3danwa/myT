@@ -1,4 +1,4 @@
-[pdf版はこちら](https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf)
+# [pdf版はこちら](https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf)
 
 # マイティールールブック
 
