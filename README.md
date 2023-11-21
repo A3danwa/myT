@@ -1,6 +1,6 @@
 # [pdf版はこちら]([https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf](https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf))
 
-https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf
+https://github.com/A3danwa/myT/blob/0137648/マイティールールブック.pdf
 
 # マイティールールブック
 
