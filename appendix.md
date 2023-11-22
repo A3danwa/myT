@@ -1,5 +1,8 @@
 [ルールブックへ](README.md)
 
+# マイティー入門・入門演習(2023年度寮祭企画)
+[syllabus (1).pdf](https://github.com/A3danwa/myT/files/13434828/syllabus.1.pdf)
+
 # マイティー付録
 （マイティーを打つうえで役に立つものもあれば立たないものもある。）
 
