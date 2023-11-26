@@ -1,7 +1,7 @@
 # [pdf版はこちら]([https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf](https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf))
 
 
-[マイティールールブック_ブラウザ版.pdf](https://github.com/A3danwa/myT/files/13422822/_.pdf)
+[myT_rulebook_ver.2.0.pdf](https://github.com/A3danwa/myT/files/13466254/myT_rulebook_ver.2.0.pdf)
 スマホで閲覧するにの最適化されているので、ダウンロードして閲覧することを推奨
 
 # マイティールールブック
