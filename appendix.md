@@ -3,6 +3,10 @@
 # マイティー入門・入門演習(2023年度寮祭企画)
 [syllabus (1).pdf](https://github.com/A3danwa/myT/files/13434828/syllabus.1.pdf)
 
+
+
+<img width="559" alt="スクリーンショット 2023-11-26 18 01 06" src="https://github.com/A3danwa/myT/assets/49736242/ffd32eb1-c693-4c6b-a376-c6a8ce6e7146">
+
 # マイティー付録
 （マイティーを打つうえで役に立つものもあれば立たないものもある。）
 
