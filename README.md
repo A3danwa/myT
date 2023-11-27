@@ -3,10 +3,7 @@
   <meta name="google-site-verification" content="640IJs9Nh4J4zsAmyFR6ZBx1a_N708YSTEklbYJcCfI" />
 </head>
 
-
-# [pdf版はこちら]([https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf](https://github.com/A3danwa/myT/blob/main/マイティールールブック.pdf))
-
-[myT_rulebook_ver.2.0.pdf](https://github.com/A3danwa/myT/files/13466288/myT_rulebook_ver.2.0.pdf)
+# [みやすいpdf版はこちら](https://github.com/A3danwa/myT/files/13466288/myT_rulebook_ver.2.0.pdf)
 
 
 スマホで閲覧するにの最適化されているので、ダウンロードして閲覧することを推奨
